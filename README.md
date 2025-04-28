@@ -1,4 +1,4 @@
-# kdp
+# aikdp
 
 👋 Hi, I'm Durga Prasad Kodipathina, a passionate DevOps Engineer with nearly 3 years of experience designing, building, and scaling cloud-native infrastructure and CI/CD pipelines.
 
