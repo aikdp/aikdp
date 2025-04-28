@@ -21,4 +21,4 @@ I am passionate about enhancing operational efficiency, reducing time-to-market,
 🌱 Currently, I'm focused on mastering multi-cloud strategies, advanced Kubernetes operations, serverless architectures and always eager to explore new technologies that enhance agility, security and operational efficiency in the DevOps space.
 
 Let's connect, collaborate and build something amazing together! 🚀
-Feel free to check out my repositories and projects.
+Feel free to check out my repositories.
